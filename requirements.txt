@@ -1,0 +1,9 @@
+python 3.8
+--------------
+pip install django==2.1.5
+pip install mysqlclient==2.1.0
+pip install pandas==0.24.2
+pip install matplotlib
+pip install pandas_datareader
+pip install scikit-learn==0.22.1
+
